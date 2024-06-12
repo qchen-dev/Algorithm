@@ -1,8 +1,12 @@
-.idea/*
-.idea/*.*
-.idea/workspace.xml
+/.idea/*
+/.idea/*.*
+/.idea/workspace.xml
 *.iml
 
 build/*
 cmd.txt
 Algorithm.iml
+/LeetCode/.gradle/
+/LeetCode/build/
+/HackerRank/.gradle/
+/HackerRank/build/
