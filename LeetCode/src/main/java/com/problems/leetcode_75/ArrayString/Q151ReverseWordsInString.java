@@ -1,4 +1,4 @@
-package com.problems.leetcode_75;
+package com.problems.leetcode_75.ArrayString;
 
 public class Q151ReverseWordsInString {
 
